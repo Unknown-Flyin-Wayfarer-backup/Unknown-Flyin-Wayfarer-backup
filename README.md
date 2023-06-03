@@ -2,7 +2,7 @@
 
 # Hi guys 👋
 
-I am <b>Amaresh S</b> from India. Currently a student at <b>Government Engineering College Trivandrum</b>. Apart from my studies, I am an engineering intern at <b>Zoci Voci</b>. I create <b>IoT, Web, Network, Embedded, Robotics projects </b> which connect our daily activities and help in making it easier for you to access information and control things remotely.<br><br> I am well versed in C/C++, Embedded C, Python, Arduino IDE, Web development etc and love working in a linux environment (sometimes). My goal is to have my hands on every field and then choose what works best for me. My keen interest is on Internet Of Things and embedded system. Join me on this Journey and <b>connect with me</b> to work on projects, and let us build a team of our own to Master at our skills with freedom. <br><br> Click on the Profile Art to visit my Website !!
+I am <b>Amaresh S</b> from India. Currently a student at <b>Government Engineering College Trivandrum</b>. Apart from my studies, I am an engineering intern at <b>Zoci Voci</b>. I create <b>IoT, Web, Network, Embedded, Robotics projects </b> which connect our daily activities and help in making it easier for you to access information and control things remotely. I am part of several projects and startups in the college. <br><br> I am well versed in C/C++, Embedded C, Python, Arduino IDE, Web development, ESP32 etc and love working in a linux environment (sometimes). My goal is to have my hands on every field and then choose what works best for me. My keen interest is on Internet Of Things and embedded system. Join me on this Journey and <b>connect with me</b> to work on projects, and let us build a team of our own to Master at our skills with freedom. <br><br> Click <a href="https://amareshs2001.wixsite.com/personal-portfolio"> here </a> to visit my Website !!
 <br>
 
 <!-- Find me On -->
@@ -11,14 +11,14 @@ I am <b>Amaresh S</b> from India. Currently a student at <b>Government Engineeri
   
 ---
   
-  
+
 ### 👨‍💻 Top Repositories
 <br>
 <p align ="center">  
-  <a href="https://github.com/hippyaki/MailAlert_Bolt-IoT"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=MailAlert_Bolt-IoT&show_owner=true&show_icons=true&theme=radical"/> </a>
-  <a href="https://github.com/hippyaki/4WD-Car-Arduino"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=4WD-Car-Arduino&show_owner=true&show_icons=true&theme=radical"/> </a>
-  <a href="https://github.com/hippyaki/FaceMaskDetector"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=FaceMaskDetector&show_icons=true&theme=radical"/> </a>
-  <a href="https://github.com/hippyaki/SITCOM-popular-tech"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=hippyaki&repo=SITCOM-popular-tech&show_icons=true&theme=radical"/> </a>
+  <a href="https://github.com/Unknown-Flyin-Wayfarer/WiFi-Livestreaming-Car"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Flyin-Wayfarer&repo=WiFi-Livestreaming-Car&show_owner=true&show_icons=true&theme=radical"/> 
+  </a><a href="https://github.com/Unknown-Flyin-Wayfarer/Kerala-IoT-Challenge"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Flyin-Wayfarer&repo=Kerala-IoT-Challenge_owner=true&show_icons=true&theme=radical"/> </a>
+
+  
   
 </p>
 
@@ -76,9 +76,6 @@ I am <b>Amaresh S</b> from India. Currently a student at <b>Government Engineeri
 Here are some ideas to get you started:
 --->
 
-- 🔭 I’m currently working on several projects in colleges and for companies and startups...
-- 🌱 I’m currently learning .electronics,IoT,embedded systems
-- 👯 I’m looking to collaborate on IoT and electronics projects
 
 <!---
 - 🤔 I’m looking for help with ...
